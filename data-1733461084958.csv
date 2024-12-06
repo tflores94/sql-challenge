@@ -1,3 +1,7 @@
+analyst results 5.-list first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+
+
+
 "first_name","last_name","birth_date","sex"
 "Hercules","Baer","1964-10-12","M"
 "Hercules","Biron","1957-10-17","F"
