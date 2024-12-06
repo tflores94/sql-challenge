@@ -1,5 +1,7 @@
 analyst results 3.- list the manager of each department along with their department number, department name, employee number, last name, and first name.
 
+
+
 "dept_no","dept_name","emp_no","last_name","first_name"
 "d001","Marketing",110022,"Markovitch","Margareta"
 "d001","Marketing",110039,"Minakawa","Vishwani"
