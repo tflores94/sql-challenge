@@ -1,3 +1,5 @@
+analyst results 6.- list each employee in the Sales department, including their employee number, last name, and first name
+
 "emp_no","last_name","first_name","dept_name"
 10002,"Simmel","Bezalel","Sales"
 10016,"Cappelletti","Kazuhito","Sales"
